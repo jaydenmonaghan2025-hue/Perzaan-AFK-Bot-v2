@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 75375,
+    "ip": warfront.aternos.me
+
+    "port": 21204
     "version": "1.21.1"
   },
   "position": {
